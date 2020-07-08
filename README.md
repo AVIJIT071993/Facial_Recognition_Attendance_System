@@ -7,4 +7,5 @@ All the features of the project are as follows:
 
 1. **Add users**:
 Click on the add user button. A window will pop up and you need to fill the details.
-![]/(Images/Add_user_interface.PNG)
+
+![](Images/Add_user_interface.PNG)

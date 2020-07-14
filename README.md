@@ -58,5 +58,5 @@ All the features of the project are as follows:
    If the computer is connected to an external camera, you can proved the path of it, in the camera port option. By default the value is 0 which will connect you to the laptops 
    webcam. After entering the value it will check if the camera port is working, if not it will generate an error message.
    
-   ![](Images/image2.png)
+   ![](Images/image2.PNG)
 

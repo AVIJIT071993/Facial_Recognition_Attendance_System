@@ -24,24 +24,25 @@ All the features of the project are as follows:
    
    ![](Images/Recog_window.PNG)
    
+   
 3. **Attendance Table:**
    To check the attendance of today. Click on the attendance button. It will display User id, Name and Time at which the user was first recognized.
   
    
-   ![](Images/attendance1.PNG)  
+   ![](Images/attendance1.png)  
    
    
-   ![](Images/attendance2.PNG)
+   ![](Images/attendance2.png)
    
    
-   ![](Images/attendance3.PNG)
+   ![](Images/attendance3.png)
    
    
    
 4. **Employee Table:**
    To check the employee table, click on employee button. It will display all the registered users with their details.
    
-   ![](Images/employee.PNG)
+   ![](Images/employee.png)
    
   
    

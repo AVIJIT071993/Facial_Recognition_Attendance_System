@@ -26,9 +26,7 @@ All the features of the project are as follows:
    
 3. **Attendance Table:**
    To check the attendance of today. Click on the attendance button. It will display User id, Name and Time at which the user was first recognized.
-   
-   ![](Images/Attendance_table.PNG)
-   
+  
    
    ![](Images/attendance1.PNG)  
    

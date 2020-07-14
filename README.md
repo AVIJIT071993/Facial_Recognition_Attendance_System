@@ -1,6 +1,6 @@
 # Facial_Recognition_Attendance_System
 
-Face Recognition Based Attendance System is The New Thing. This facial recognition attendance is made on tkinter and the model is trained on LBPHFaceRecognizer of opencv. 
+Face Recognition Based Attendance System is The New Thing. This facial recognition attendance is made on tkinter and the model is trained on LBPHFaceRecognizer of opencv. The attendance is stored in excel sheet date wise. Every day a new excel sheet is generated of that date.
 
 
 ![](Images/GUI1.PNG)
@@ -14,6 +14,8 @@ All the features of the project are as follows:
 
    ![](Images/Add_user_interface.PNG)
    
+   
+   The userid should be unique. If the userid is already present then a message box will pop up as shown below.
    
    
    ![](Images/image1.PNG)
@@ -32,7 +34,13 @@ All the features of the project are as follows:
    ![](Images/attendance1.png)  
    
    
+   You can also sort the date according to your need, which you can see in the pic below.
+   
+   
    ![](Images/attendance2.png)
+   
+   
+   You can also export or save the data in a different location as shown below.
    
    
    ![](Images/attendance3.png)
@@ -40,9 +48,15 @@ All the features of the project are as follows:
    
    
 4. **Employee Table:**
-   To check the employee table, click on employee button. It will display all the registered users with their details.
+   To check the employee table, click on employee button. It will display all the registered users with their details. You can also sort and export the data just like we did in the attendance table.
    
    ![](Images/employee.png)
    
-  
+
+
+5. **Camera Port:**
+   If the computer is connected to an external camera, you can proved the path of it, in the camera port option. By default the value is 0 which will connect you to the laptops 
+   webcam. After entering the value it will check if the camera port is working, if not it will generate an error message.
    
+   ![](Images/image2.png)
+

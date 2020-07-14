@@ -60,3 +60,5 @@ All the features of the project are as follows:
    
    ![](Images/image2.PNG)
 
+
+**The GUI part of the code is not been uplodaded. For further query, contact me on my email id: banduriavijit7@gmail.com**

@@ -3,7 +3,7 @@
 Face Recognition Based Attendance System is The New Thing. This facial recognition attendance is made on tkinter and the model is trained on LBPHFaceRecognizer of opencv. 
 
 
-![](Images/GUI.PNG)
+![](Images/GUI1.PNG)
 
 
 All the features of the project are as follows:
